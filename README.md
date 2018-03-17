@@ -24,5 +24,13 @@
    * Right click -> Team ->Share -> Git
    * Do a initial commit
    * Push the project to the repository.
+   
+ ```
+ Got non-first-forward issue:
+ > git pull --rebase
+ 
+ This will apply changes that has been done online.
+ ```
+ 
     
 
