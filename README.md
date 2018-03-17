@@ -1,6 +1,6 @@
-## Installation & configuration guide
+# Installation & configuration guide
 
-# Configuring maven projects-
+## Configuring maven projects-
 
    * Create a eclipse maven project
      * File -> New -> Maven Project
@@ -16,9 +16,13 @@
       <maven.compiler.source>1.8</maven.compiler.source> 
     </properties> 
     ```
-    * Update maven project.
+   * Update maven project.
       * Right click on maven project -> maven -> Update Project
-    
-    
+      
+ 
+ ## Configuring github-
+   * Right click -> Team ->Share -> Git
+   * Do a initial commit
+   * Push the project to the repository.
     
 
