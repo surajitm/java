@@ -1,4 +1,6 @@
-# Installation & configuration guide
+## Installation & configuration guide
+
+# Configuring maven projects-
 
    * Create a eclipse maven project
      * File -> New -> Maven Project
@@ -7,9 +9,16 @@
        mvn clean install 
      
    * Add latest verion of compiler in pom.xml
-    ``` <properties>
+   
+    ``` 
+    <properties>
       <maven.compiler.target>1.8</maven.compiler.target>
-		  <maven.compiler.source>1.8</maven.compiler.source> 
-    </properties> ```
-    
+      <maven.compiler.source>1.8</maven.compiler.source> 
+    </properties> 
+    ```
     * Update maven project.
+      * Right click on maven project -> maven -> Update Project
+    
+    
+    
+
