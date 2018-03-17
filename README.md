@@ -7,8 +7,9 @@
        mvn clean install 
      
    * Add latest verion of compiler in pom.xml
-   <properties>
+    ' <properties>
       <maven.compiler.target>1.8</maven.compiler.target>
 		  <maven.compiler.source>1.8</maven.compiler.source> 
-    </properties> 
+    </properties> '
+    
     * Update maven project.
