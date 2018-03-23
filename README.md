@@ -25,12 +25,52 @@
    * Do a initial commit
    * Push the project to the repository.
    
- ```
- Got non-first-forward issue:
- > git pull --rebase
+        ```
+          Got non-first-forward issue:
+          > git pull --rebase
  
- This will apply changes that has been done online.
- ```
+          This will apply changes that has been done online.
+         ```
+ 
+ # Some important interview question:
+   ## String-
+   ## OOPS-
+   * What will be the output of the below program?
+   
+         ```
+         class A{
+            public A(){
+              System.out.print("A");
+            }
+         }
+         
+         class B extends A{
+          public B(){
+           System.out.print("B");
+          }
+         }
+         
+         class C extends B{
+           public C(){
+             System.out.print("C");
+           }
+         }
+         class Main{
+           new C();
+         }
+         
+         O/P: ABC
+         
+         ```
+         
+   ## Collection-
+   ## Generics-
+   ## Threading-
+   ## Functional Programming-
+   ## Steams-
+   ## Miscellaneous-
+   ## Puzzle-
+ 
  
     
 
