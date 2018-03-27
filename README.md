@@ -1,4 +1,5 @@
-# Installation & configuration guide
+## Practice section:
+   * [CodingBat](http://codingbat.com/java)
 
 ## Configuring maven projects-
 
@@ -46,6 +47,7 @@
    ## Steams-
    ## Miscellaneous-
    ## Puzzle-
+ 
  
  
     
