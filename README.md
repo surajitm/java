@@ -39,34 +39,6 @@
  # Some important interview question:
    ## String-
    ## OOPS-
-   * What will be the output of the below program?
-   
-         
-         class A{
-            public A(){
-              System.out.print("A");
-            }
-         }
-         
-         class B extends A{
-          public B(){
-           System.out.print("B");
-          }
-         }
-         
-         class C extends B{
-           public C(){
-             System.out.print("C");
-           }
-         }
-         class Main{
-           new C();
-         }
-         
-         O/P: ABC
-         
-        
-         
    ## Collection-
    ## Generics-
    ## Threading-
