@@ -31,13 +31,20 @@
    * Do a initial commit
    * Push the project to the repository.
    
-          
             Got non-first-forward issue:
             > git pull --rebase
             This will apply changes that has been done online.
         
  
  # Some important interview question:
+   ## BigDecimal:
+   
+        * For getting accurate result in calculation or big number calculation we can use BigDecimal.
+        * BigDecimal is a immutable class.
+        * We can do all numerical operation with BigDecimal.
+        * Method of big decimal:
+          add(),subtract(),multiply(),divide()  
+         
    ## String-
    ## OOPS-
    ## Collection-
