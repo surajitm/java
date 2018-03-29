@@ -44,6 +44,7 @@
         * We can do all numerical operation with BigDecimal.
         * Method of big decimal:
           add(),subtract(),multiply(),divide()  
+        * For comparing use compareTo() method.
    * Issues:
       * Exception:Non-terminating decimal expansion
          ```
