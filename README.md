@@ -44,6 +44,16 @@
         * We can do all numerical operation with BigDecimal.
         * Method of big decimal:
           add(),subtract(),multiply(),divide()  
+   * Issues:
+      * Exception:Non-terminating decimal expansion
+         ```
+         Use RoundingMode: import java.math.RoundingMode;
+         BigDecimal avg=sum.divide(n,3,RoundingMode.HALF_UP); -> Precesion 3
+         Check Java doc for RoundingMode. 
+    
+         ```
+        
+        
          
    ## String-
    ## OOPS-
