@@ -1,4 +1,4 @@
-package my.java.project1;
+package my.java.Assignment1;
 
 import java.util.ArrayList;
 

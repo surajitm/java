@@ -1,4 +1,4 @@
-package my.java.project2;
+package my.java.Assignment2;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
@@ -13,6 +13,11 @@ public class Student {
 		this.name=name;
 		this.marks=marks;
 	}
+	
+	public String getName(){
+		return name;
+	}
+	
 	
 	public int getNumberOfMarks(){
 		return marks.length;
@@ -54,7 +59,7 @@ public class Student {
 		
 		BigDecimal sum=new BigDecimal(getTotalSumOfMarks());
 		BigDecimal n=new BigDecimal(getNumberOfMarks());
-		BigDecimal avg=sum.divide(n,3,RoundingMode.HALF_UP);
+		BigDecimal avg=sum.divide(n,2,RoundingMode.HALF_UP);
 		
 		return avg;
 	}

@@ -1,4 +1,4 @@
-package my.java.project2;
+package my.java.Assignment2;
 
 
 /*
@@ -22,8 +22,9 @@ public class MarksDashBoard {
 		Student sam=new Student("Sam",marks);
 		Student.showStudentDetail(sam);
 		
-		int marks1[]={80,80,80,90,60};
-		Student ram=new Student("Ram",marks1);
+		//We can pass using inline
+		//Right click -> Refactor -> inline
+		Student ram=new Student("Ram",new int[] {80,80,80,90,60});
 		Student.showStudentDetail(ram);
 		
 		

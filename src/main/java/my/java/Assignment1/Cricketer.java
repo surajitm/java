@@ -1,4 +1,4 @@
-package my.java.project1;
+package my.java.Assignment1;
 
 /*
  * Cricketer {name,age,team,score,ballPalyed,getSignle(int howMany),hitFour(),hitSix(),getBallPlayed()}
