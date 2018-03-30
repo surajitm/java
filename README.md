@@ -1,5 +1,6 @@
 ## Practice section:
    * [CodingBat](http://codingbat.com/java)
+   * [Top Java tutorial](http://www.topjavatutorial.com/category/java/)
 
 ## Configuring maven projects-
 
@@ -11,7 +12,6 @@
      
    * Add latest verion of compiler in pom.xml
    
-    
     <properties>
       <maven.compiler.target>1.8</maven.compiler.target>
       <maven.compiler.source>1.8</maven.compiler.source> 
@@ -19,7 +19,8 @@
     
    
    * Update maven project.
-      * Right click on maven project -> maven -> Update Project
+   
+         * Right click on maven project -> maven -> Update Project
       
  ## How to disable autocomplete-
  
@@ -37,26 +38,8 @@
         
  
  # Some important interview question:
-   ## BigDecimal:
-   
-        * For getting accurate result in calculation or big number calculation we can use BigDecimal.
-        * BigDecimal is a immutable class.
-        * We can do all numerical operation with BigDecimal.
-        * Method of big decimal:
-          add(),subtract(),multiply(),divide()  
-        * For comparing use compareTo() method.
-   * Issues:
-      * Exception:Non-terminating decimal expansion
-         ```
-         Use RoundingMode: import java.math.RoundingMode;
-         BigDecimal avg=sum.divide(n,3,RoundingMode.HALF_UP); -> Precesion 3
-         Check Java doc for RoundingMode. 
-    
-         ```
-        
-        
-         
-   ## String-
+   ## [BigDecimal](https://github.com/surajitm/java/wiki/BigDecimal)
+   ## [String]()
    ## OOPS-
    ## Collection-
    ## Generics-
