@@ -40,10 +40,16 @@
  # Some important interview question:
    ## [BigDecimal](https://github.com/surajitm/java/wiki/BigDecimal)
    ## [String]()
+   * Is String immutable? How you will create immutable class?
    ## OOPS-
+   ## Serialization:
+   * Can through serialization immutability of an object can break?
+   
    ## Collection-
+   * How you will make a best key for HashMap?
    ## Generics-
    ## Threading-
+   * Tell me all different service provided by the Executor Service?
    ## Functional Programming-
    ## Steams-
    ## Miscellaneous-
