@@ -45,6 +45,10 @@
    ## Serialization:
    * Can through serialization immutability of an object can break?
    
+   ## Exception handling:
+   * How you will create a custom exception?
+   * What are the best practices for implementing Exception Handling?
+   
    ## Collection-
    * How you will make a best key for HashMap?
    ## Generics-
