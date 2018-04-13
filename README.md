@@ -42,6 +42,7 @@
    ## [BigDecimal](https://github.com/surajitm/java/wiki/BigDecimal)
    ## [String]()
    * Is String immutable? How you will create immutable class?
+   ## [Set operation](https://github.com/surajitm/java/wiki/All-java-Set-Operation)
    ## OOPS-
    ## Serialization:
    * Can through serialization immutability of an object can break?
