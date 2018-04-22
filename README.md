@@ -1,8 +1,3 @@
-## Practice section:
-   * [Java Program](http://www.java2novice.com/java-interview-programs/)
-   * [CodingBat](http://codingbat.com/java)
-   * [Top Java tutorial](http://www.topjavatutorial.com/category/java/)
-
 ## Topics for interviews:
    * String memory level,immutability
    * JVM memory level.
@@ -15,9 +10,19 @@
    * Shallow copy and deep copy and use cases
    * DS(sorting,map,dp,greedy,linkedlist,tree)
    * class designing -> collection usage,pattern usage.-> Practice design from geeksforgeeks,singleton,Factory,set opearion
+   * Dependency injection-> loose and tight coupling.
    * Project ->Webcrawler,XMLTranslator
    * Technology - spring core,spring AOP,spring MVC,hibernate,Webservices(RESTFull),MongoDB or cassandra,GIT
    * Hackerrank and geeksforgeeks and interviewbit
+
+
+
+## Practice section:
+   * [Java Program](http://www.java2novice.com/java-interview-programs/)
+   * [CodingBat](http://codingbat.com/java)
+   * [Top Java tutorial](http://www.topjavatutorial.com/category/java/)
+
+
    
 
 
