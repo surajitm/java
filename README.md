@@ -14,8 +14,11 @@
    * New feature added in Java 8 
    * Shallow copy and deep copy and use cases
    * DS(sorting,map,dp,greedy,linkedlist,tree)
-   * class designing -> collection usage,pattern usage.-> Practice design from geeksforgeeks
-   * Technology - spring core,spring AOP,spring MVC,hibernate,Webservices(RESTFull)
+   * class designing -> collection usage,pattern usage.-> Practice design from geeksforgeeks,singleton,Factory,set opearion
+   * Project ->Webcrawler,XMLTranslator
+   * Technology - spring core,spring AOP,spring MVC,hibernate,Webservices(RESTFull),MongoDB or cassandra,GIT
+   * Hackerrank and geeksforgeeks and interviewbit
+   
 
 
 ## Configuring maven projects-
