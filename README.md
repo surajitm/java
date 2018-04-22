@@ -3,6 +3,21 @@
    * [CodingBat](http://codingbat.com/java)
    * [Top Java tutorial](http://www.topjavatutorial.com/category/java/)
 
+## Topics for interviews:
+   * String memory level,immutability
+   * JVM memory level.
+   * Concurrency and concurrent hash map,producer and consumer,reader and writer,deadlock and resolve deadlock.
+   * wait() and notify()
+   * Serializable
+   * Collection -> Map,comparator,comparable.
+   * Exception -> custom runtime and compiletime Exception.
+   * New feature added in Java 8 
+   * Shallow copy and deep copy and use cases
+   * DS(sorting,map,dp,greedy,linkedlist,tree)
+   * class designing -> collection usage,pattern usage.-> Practice design from geeksforgeeks
+   * Technology - spring core,spring AOP,spring MVC,hibernate,Webservices(RESTFull)
+
+
 ## Configuring maven projects-
 
    * Create a eclipse maven project
